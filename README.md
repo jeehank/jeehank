@@ -5,11 +5,17 @@
 
 - 🔭 I’m currently working on [Video-to-Ascii-Art](https://github.com/jeehank/video-to-ascii-art-converter)
 
-- 🌱 I’m currently learning **OpenCV ,JFrame & Electron js**
-
 - 👯 My star project [voice-desktop-automation](https://github.com/jeehank/JarvisAI)
 
+- 🥀 Code Editor [The-Ashmi-Editor](https://github.com/jeehank/code-editor-in-electron)
+
 - ✌️ Most fun project I have made [Car-Race-AI](https://github.com/jeehank/car-race-ai-models)
+
+- ❤️ Best website ever created [X-Uberance'26](https://github.com/anoshupolticoal11/for-hosting-xuberance)
+
+- 👀 My First Scroll Synced Website [X-Celsior'26](https://github.com/jeehank/xcelsiorisfinallyhere)
+
+- 🌱 I’m currently learning **OpenCV ,JFrame & Electron js**
 
 - 📫 How to reach me **anoshupolticoal34@gmail.com**
 
